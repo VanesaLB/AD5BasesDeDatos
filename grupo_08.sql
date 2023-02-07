@@ -1,3 +1,4 @@
+-- MYSQL
 create DATABASE IF NOT exists AD5;
 USE AD5;
 create table ´CENTROS´ (
